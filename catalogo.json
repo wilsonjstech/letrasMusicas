@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "notes_included": false,
+  "songs": [
+    {
+      "title": "Em Tua Presença",
+      "artist": "Nívea Soares",
+      "author": "Nívea Soares, Gustavo Soares",
+      "key": "G",
+      "bpm": "78",
+      "time_sig": "4/4",
+      "lyrics": "Eu quero estar neste lugar\nOnde o pecado é perdoado\nE as culpas são levadas\n\nEu quero estar neste lugar\nOnde o amor não se esfrie\nE o fogo não se apague\n\nEm Tua presença\nSenhor Jesus\nEm Tua presença\nSenhor Jesus\n\nSanto Espírito\nEu me rendo ao Teu agir\nMeu anseio é\nPermanecer em Teu amor\n\nEm Tua presença, Senhor\nEm Tua presença\nEm Tua presença, Senhor\nEm Tua presença\n\nEu quero estar neste lugar\nOnde o poder não me corrompa\nRiquezas não me ceguem\n\nEu quero estar neste lugar\nOnde o mundo não me atraia\nPaixões não me seduzam",
+      "source_url": "",
+      "reviewed": false,
+      "id": "4efb43a7-f314-4c30-af17-9b83d534c9d5",
+      "created_at": "2026-09-02T22:47:50.484346+00:00",
+      "updated_at": "2026-09-02T22:47:50.484346+00:00",
+      "file": "artistas/Nívea Soares/Em Tua Presença--4efb43a7.txt"
+    },
+    {
+      "title": "Agnus Dei",
+      "artist": "David Quinlan",
+      "author": "Michael W. Smith, David Quinlan",
+      "key": "",
+      "bpm": "",
+      "time_sig": "",
+      "lyrics": "Santo, Santo\nÉ o Senhor, Deus Poderoso\nDigno de louvor, Tu és, Tu és\n\nSanto, Santo\nÉ o Senhor, Deus Poderoso\nDigno de louvor\nAmém\n\nAleluia! Aleluia!\nPoderoso é o Senhor nosso Deus\nAleluia! Aleluia!\nPoderoso é o Senhor nosso Deus\n\nAleluia!\n\nSanto, Santo\nÉ o Senhor, Deus Poderoso\nDigno de louvor, digno de louvor\n\nTu és Santo, Santo\nÉ o Senhor, Deus Poderoso\nDigno de louvor, digno de louvor\n\nTu és Santo, Santo\nÉ o Senhor, Deus Poderoso\nDigno de louvor, digno de louvor\n\nTu és Santo, Santo\nÉ o Senhor, Deus Poderoso\nDigno de louvor, Tu és, Tu és digno de louvor\n\nDigno, ooh, oh, oh, digno\nE tu és santo\nNão há outro, não há outro como Tu, não, não, não\nÉ o Senhor, Deus Poderoso\nDigno de louvor, digno de louvor\n\nNão há ninguém que se compare a Ti, Senhor\nTu és o unico\nDigno do nosso louvor, da nossa adoração\n\nAmém\nAmém\nAmém\nAmém\nAmém\nAmém\nAmém\n\nDe geração a geração\nDe eternidade a eternidade\nAmém\nAmém\nAmém, Senhor\n\nAo ouvir o Teu espirito\nAo ouvir o amor\nDizemos Amém\nAmém\nAmém\nAmém\nAmém\n\nTe amo\nEu Te amo\nEu Te amo, Jesus\nEu Te amo\nEu Te amo\nEu Te amo, Jesus\nEu Te amo\nEu Te amo, Jesus\nTe amo",
+      "source_url": "https://www.letras.mus.br/david-quinlan/1227051/",
+      "reviewed": true,
+      "id": "5465b269-0cd2-48f0-bf1d-e85ad1b0df18",
+      "created_at": "2026-09-02T23:09:56.030619+00:00",
+      "updated_at": "2026-09-02T23:11:05.791558+00:00",
+      "file": "artistas/David Quinlan/Agnus Dei--5465b269.txt"
+    }
+  ]
+}
